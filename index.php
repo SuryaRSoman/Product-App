@@ -28,6 +28,10 @@
             <td>Manufacture Year</td>
             <td><input type="text" class="form-control"></td>
         </tr>
+        <tr>
+            <td></td>
+            <td class="btn btn-success">Submit</td>
+        </tr>
     </table>
 </div>
 </div>
